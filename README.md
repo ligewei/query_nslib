@@ -20,3 +20,7 @@
 
 - Write another "username,password" in another line
 
+- Exec the command like this:
+
+`python nslib.py ./pwd.csv`
+
